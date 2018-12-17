@@ -1,0 +1,19 @@
+{
+  "name": "three-js-gtlf",
+  "version": "1.0.0",
+  "description": "A 3d render in the browser with three.js and gtlf file format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamwhitlock1/three-js-gtlf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamwhitlock1/three-js-gtlf/issues"
+  },
+  "homepage": "https://github.com/adamwhitlock1/three-js-gtlf#readme"
+}
