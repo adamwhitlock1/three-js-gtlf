@@ -10,7 +10,7 @@
     <style>
       body {
         font-family: Monospace;
-        background-color: #000;
+        background-color: #fff;
         color: #fff;
         margin: 0px;
         overflow: hidden;
@@ -59,7 +59,7 @@
         // model
         var loader = new THREE.GLTFLoader().setPath("models/");
         loader.load(
-          "TESTMODEL.gltf",
+          "suzanne_pbr.gltf",
           function(gltf) {
             gltf.scene.traverse(function(child) {
               if (child.isMesh) {
