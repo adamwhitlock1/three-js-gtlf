@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adamwhitlock1/three-js-gtlf/issues"
   },
-  "homepage": "https://github.com/adamwhitlock1/three-js-gtlf#readme"
+  "homepage": "https://github.com/adamwhitlock1/three-js-gtlf#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }
